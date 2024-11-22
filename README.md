@@ -1,6 +1,10 @@
 # CryptoCurrency
 
  [Demo Project](https://amirmohammadianaftah.github.io/CryptoCurrency/)
+ 
+
+ ![Crypto](https://github.com/user-attachments/assets/94444c1d-203c-4750-bada-58262b524836)
+
   - 
 - Developed by Amir Mohammadian
 - Created - 2024-11-23
